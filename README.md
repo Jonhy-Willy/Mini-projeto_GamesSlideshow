@@ -9,7 +9,7 @@
 
 Projeto construído para reforçar conhecimentos adquiridos em desenvolvimento Front-End!
 
-[ 🔗 Clique aqui para acessar](https://projeto-womens-cup.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://mini-projeto-games-slideshow.vercel.app/)
 
 ## 🚀 Tecnologias
 
